@@ -1,1 +1,3 @@
-C:\Users\pravash\AppData\Local\Google\Chrome\User Data\Default\Extensions
+git add filename-> add file to staging or tracking
+ C:\Users\pravash\AppData\Local\Google\Chrome\User Data\Default\Extensions
+git status-> to see status of local repo
